@@ -4,19 +4,19 @@
     "url": "https://greifswald.lgbt",
     "icon": "https://icons.duckduckgo.com/ip3/greifswald.lgbt.ico",
     "slug": "greifswald-lgbt-mastodon-i-pv4",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 802,
-    "timeDay": 806,
-    "timeWeek": 782,
-    "timeMonth": 802,
-    "timeYear": 802,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "96.94%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 789,
+    "timeDay": 672,
+    "timeWeek": 752,
+    "timeMonth": 789,
+    "timeYear": 789,
     "dailyMinutesDown": {
-      "2024-04-10": 0
+      "2024-04-10": 44
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://greifswald.lgbt",
     "icon": "https://icons.duckduckgo.com/ip3/greifswald.lgbt.ico",
     "slug": "greifswald-lgbt-mastodon-i-pv6",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 192,
-    "timeDay": 218,
-    "timeWeek": 203,
-    "timeMonth": 192,
-    "timeYear": 192,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "96.96%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 191,
+    "timeDay": 198,
+    "timeWeek": 200,
+    "timeMonth": 191,
+    "timeYear": 191,
     "dailyMinutesDown": {
-      "2024-04-10": 0
+      "2024-04-10": 44
     }
   },
   {
