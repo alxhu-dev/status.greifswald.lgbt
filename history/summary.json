@@ -46,10 +46,10 @@
     "url": "https://pride-greifswald.de",
     "icon": "https://icons.duckduckgo.com/ip3/pride-greifswald.de.ico",
     "slug": "pride-greifswald-website-i-pv4",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1058,
@@ -58,6 +58,7 @@
     "timeMonth": 1100,
     "timeYear": 1058,
     "dailyMinutesDown": {
+      "2024-09-02": 1,
       "2024-04-28": 24
     }
   },
@@ -68,9 +69,9 @@
     "slug": "pride-greifswald-website-i-pv6",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 186,
     "timeDay": 96,
@@ -78,7 +79,7 @@
     "timeMonth": 124,
     "timeYear": 186,
     "dailyMinutesDown": {
-      "2024-09-02": 0,
+      "2024-09-02": 10,
       "2024-04-28": 24
     }
   }
