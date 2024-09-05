@@ -12,9 +12,6 @@ sites:
   - name: Mastodon-Bilder (IPv4)
     url: https://eu2.contabostorage.com
     ipv6: false
-  - name: Mastodon-Bilder (IPv6)
-    url: https://eu2.contabostorage.com
-    ipv6: true
   - name: Pride Greifswald (Website, IPv4)
     url: https://pride-greifswald.de
     ipv6: false
