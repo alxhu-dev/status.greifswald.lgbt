@@ -22,7 +22,7 @@
     "url": "https://greifswald.lgbt",
     "icon": "https://icons.duckduckgo.com/ip3/greifswald.lgbt.ico",
     "slug": "mastodon-i-pv6",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 119,
     "timeMonth": 119,
     "timeYear": 119,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-07": 0
+    }
   },
   {
     "name": "Pride Greifswald (Website, IPv4)",
